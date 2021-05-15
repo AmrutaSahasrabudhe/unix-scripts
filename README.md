@@ -11,3 +11,12 @@ Unix is a family of multitasking, multiuser computer operating systems that deri
 
 #### Download File
 `curl -0 http://127.0.0.1:8080/data.zip`
+
+## Count lines in a File 
+`wc -l`
+
+## Change User to guest
+`sudo guest`
+
+## Show top 5 lines
+`head -5 file.dat`
