@@ -25,3 +25,6 @@ Unix is a family of multitasking, multiuser computer operating systems that deri
 ## view Running log 
 `tail -f test.log`
 
+## Make directory
+`mkdir dir1`
+
