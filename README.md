@@ -20,3 +20,8 @@ Unix is a family of multitasking, multiuser computer operating systems that deri
 
 ## Show top 5 lines
 `head -5 file.dat`
+
+
+## view Running log 
+`tail -f test.log`
+
