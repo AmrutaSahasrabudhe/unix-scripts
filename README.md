@@ -28,3 +28,5 @@ Unix is a family of multitasking, multiuser computer operating systems that deri
 ## Make directory
 `mkdir dir1`
 
+## mkdir -p /home/amruta/dir1
+## no error if existing, make parent directories as needed
